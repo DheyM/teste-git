@@ -17,28 +17,27 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 
 public class teste {
-    
-    interface exemplo{
-        public String say(String txt);
-    }
-    
-    //minha altecaoçaõ
-    
-    public static void main(String[] args) {
-        
-         exemplo s =(txt)->{
-             return txt;
-        };
-        
-        System.out.println(s.say("meu nome e damerson"));
-                
-    }
+ 
     
     
     
     
     
 }
+
+/*     
+    interface exemplo{
+        public String say(String txt);
+    }
+    //minha alteração.
+    
+      public static void main(String[] args) {
+             exemplo s =(txt)->{
+                return txt;
+            };
+            System.out.println(s.say("meu nome e damerson"));
+        }*/
+
 
 //        static String OptionPaneExample() {
 //            JFrame f;
