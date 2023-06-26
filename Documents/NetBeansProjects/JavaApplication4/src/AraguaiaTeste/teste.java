@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
 public class teste {
  
     
-    
+//estou testando o git    
     
     
     
@@ -60,6 +60,7 @@ public class teste {
             String languages[] = {"C", "C++", "C#", "Java", "PHP"};
             final JComboBox cb = new JComboBox(languages);
             cb.setBounds(50, 100, 90, 20);
+            
             f.add(cb);
             f.add(label);
             f.add(b);
