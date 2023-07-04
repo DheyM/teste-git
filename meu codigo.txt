@@ -6,4 +6,8 @@ foi enviado com sucesso!
 
 sou muito um excelente top
 
+<<<<<<< HEAD
 feijão
+=======
+arroz
+>>>>>>> staging
