@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarefa-projeto-2",
+      "appliesTo": "/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "tarefa-index",
+      "appliesTo": "index.html",
+      "type": "launch"
+    }
+  ]
+}
